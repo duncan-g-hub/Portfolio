@@ -1,8 +1,8 @@
 # Portfolio
-About me, my experiences and my projects.
+Mon profil, mes expériences, mes compétences et mes projets.
 
 
-## About me 
+## Mon profil 
 
 Je m'appele Duncan GAURAT, j'ai 27 ans, je vis dans la région Franche-Compté en France.
 
@@ -92,10 +92,21 @@ Repository : https://github.com/duncan-g-hub/P6_Front-end_JustStreamIt.git
 
 ## Mes projets personnels
 
-### Scraping_Genius_Lyrics
-
 ### ToDoList_App
+Il s'agit d'une application permettant la gestion de tâches personnelles.
+L'objectif est de constituer un outil qui ne nécessite aucune connexion internet et qui permet de sauvegarder et d'afficher les données de chaques tâches.
 
-### Sudoku game ?
+Technologies utilisées : 
+- Python 3.13
+- Librairies standards : datetime, pathlib, json, logging
+- tinydb
+- PySide6
+
+Repository : https://github.com/duncan-g-hub/ToDoList_App.git
 
 ### Website portfolio (à venir)
+
+
+## Contact
+Pour toute question :  
+Duncan GAURAT - duncan.dev@outlook.fr
