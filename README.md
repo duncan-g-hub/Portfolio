@@ -16,21 +16,33 @@ Je suis actuellement plusieurs formations en ligne afin d'acquérir toutes les c
 ## Compétences techniques
 
 ### Langages de programmation
-Python (avancé)
-Javascript (bases)
-SQL (bases)
-VBA (bases)
+- Python (avancé)
+- Javascript (bases)
+- SQL (bases)
+- VBA (bases)
 
 ### Outils 
-Git - VSC - PyCharm - Django - PySide
-SolidWorks (CAO) - CEGID PMI (ERP) - Excel (avancé)
+- Git
+- VSC
+- PyCharm
+- Django
+- PySide
+- SolidWorks avancé (CAO)
+- CEGID PMI (ERP)
+- Excel (avancé)
+
 
 ### Concepts
-Programmation Orientée Objet (POO) - Automatisation de processus
-Intégration logicielle - Conception de base de donnée
+- Programmation Orientée Objet (POO)
+- Automatisation de processus
+- Intégration logicielle
+- Conception de base de donnée
 
 ### Mèthodes 
-Analyse fonctionnelle - Développement agile - Tests et validation - Documentation technique
+- Analyse fonctionnelle
+- Développement agile
+- Tests et validation
+- Documentation technique
 
 
 
