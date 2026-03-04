@@ -1,7 +1,7 @@
-# Duncan Gaurat - Portfolio Développeur d'application
-Développeur orienté logiciel et outils métiers, spécialisé en Python et en conception d'application robustes, maintenables et structurées. 
+# Duncan Gaurat - Portfolio Développeur d'applications
+Développeur orienté conception logicielle et outils métiers, spécialisé en Python et en conception d'applications robustes, maintenables et structurées. 
 
---
+---
 
 ## À propos
 
@@ -18,19 +18,15 @@ Je me spécialise aujourd’hui en développement d’applications Python, avec 
 
 Objectif : intégrer un poste de développeur logiciel junior afin de concevoir des applications utiles, robustes et évolutives.
 
---
+---
 
 ## Compétences techniques
 
---
-
 ### Langages de programmation
 - Python (avancé)
-- Javascript (bases)
+- JavaScript (bases)
 - SQL (bases)
 - VBA (bases)
-
---
 
 ### Outils & Frameworks
 - Git
@@ -44,29 +40,24 @@ Objectif : intégrer un poste de développeur logiciel junior afin de concevoir 
 - CEGID PMI (ERP)
 - Excel (avancé)
 
---
-
 ### Concepts
 - Programmation Orientée Objet (POO)
 - Séparation des responsabilités
-- Conception de base de donnée
+- Conception de bases de données
 - Manipulation d'API REST
 - Automatisation de processus
 - Logging et gestion d'erreurs
 
---
-
-### Mèthodes 
+### Méthodes 
 - Analyse fonctionnelle
 - Développement agile
 - Tests et validation
 - Documentation technique
 
---
+---
 
 ## Mes projets éducatifs
 
---
 
 ### Books_to_scrape
 
@@ -89,7 +80,7 @@ Compétences développées :
 - Nettoyage et normalisation de données
 - Téléchargement et gestion de fichiers images
 - Export structuré en CSV
-- Gestion de chemin avec Pathlib
+- Gestion des chemins avec Pathlib
 - Respect des conventions PEP8
 
 Technologies utilisées : 
@@ -102,7 +93,8 @@ Technologies utilisées :
 
 Ce projet met en avant ma capacité à concevoir un outil automatisé robuste et structuré.
 
---
+---
+
 
 ### Chess_Tournament
 
@@ -123,7 +115,7 @@ Compétences développées :
 - Séparation des responsabilités
 - Gestion de flux applicatif complexe
 - Implémentation d’un système de génération automatique des matchs
-- Validation du code via flake8 et génération de rapports
+- Validation du code avec flake8 et génération de rapports
 
 Technologies utilisées : 
 - Python 3
@@ -133,7 +125,8 @@ Technologies utilisées :
 
 Ce projet illustre ma capacité à concevoir une application métier structurée avec une architecture claire.
 
---
+---
+
 
 ### Front-end_JustStreamIt
 
@@ -165,11 +158,10 @@ Technologies utilisées :
 
 Ce projet démontre ma compréhension des architectures web et des échanges client/serveur.
 
---
+---
 
 ## Mes projets personnels
 
---
 
 ### ToDoList_App
 
@@ -190,7 +182,7 @@ Compétences développées :
 - Gestion d’événements UI
 - Séparation logique / interface
 - Persistance locale de données
-- Structuration modulaire d’application
+- Structuration modulaire de l’application
 
 Technologies utilisées : 
 - Python 3
@@ -200,14 +192,14 @@ Technologies utilisées :
 
 Ce projet reflète clairement mon orientation vers le développement d’applications logicielles complètes en Python.
 
---
+---
 
 ### Website portfolio (à venir)
 Développement d’un site vitrine personnel présentant mes projets, compétences et parcours de manière interactive.
 
---
+---
 
-## Ce que mes projets démontrent globalement :
+## Ce que mes projets démontrent globalement
 - Capacité à concevoir une architecture logicielle claire
 - Structuration orientée objet
 - Respect des bonnes pratiques Python
@@ -215,9 +207,11 @@ Développement d’un site vitrine personnel présentant mes projets, compétenc
 - Manipulation de données
 - Développement d’interfaces (CLI, GUI, Web)
 
---
+---
 
 ## Contact
+
 Duncan GAURAT 
+
 duncan.dev@outlook.fr
 📍 Franche-Comté, France
