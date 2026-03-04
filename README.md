@@ -67,7 +67,7 @@ Objectif :
 Développer un système automatisé de surveillance des prix capable d’extraire, transformer et structurer les données d’un site e-commerce.
 Le projet repose sur la mise en place d’un pipeline complet d’extraction et de traitement de données.
 
-Architecture : 
+
 Implémentation d’un pipeline de type ETL simplifié :
 - Extract : récupération des pages et des données produits
 - Transform : nettoyage et normalisation (stock, notation, noms de fichiers)
@@ -103,7 +103,6 @@ Repository : https://github.com/duncan-g-hub/P4_Chess_Tournament.git
 Objectif :
 Développer une application locale permettant la gestion complète d’un tournoi d’échecs sans connexion internet.
 
-Architecture :
 Architecture MVC (Model-View-Controller) clairement séparée :
 - Models : entités métier (Player, Tournament, Match, Turn) et logique applicative
 - Views : interface en ligne de commande
@@ -135,7 +134,6 @@ Repository : https://github.com/duncan-g-hub/P6_Front-end_JustStreamIt.git
 Objectif : 
 Développer une application web dynamique affichant en temps réel un classement de films à partir d’une API REST locale.
 
-Architecture : 
 Architecture modulaire avec séparation des responsabilités :
 - HTML : structure
 - CSS : mise en forme responsive 
@@ -171,8 +169,7 @@ Objectif :
 Concevoir une application desktop autonome de gestion de tâches avec persistance locale.
 Projet orienté développement logiciel, avec séparation entre interface graphique et logique métier.
 
-Architecture :
-Séparation en deux couches principales :
+Architecture séparée en deux couches principales :
 - Interface graphique (PySide6) : gestion des interactions utilisateur
 - Logique métier et persistance : gestion des tâches et stockage local
 Stockage des données en JSON via TinyDB.
