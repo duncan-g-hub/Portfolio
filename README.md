@@ -158,6 +158,45 @@ Ce projet démontre ma compréhension des architectures web et des échanges cli
 
 ---
 
+
+### LITRevu_web_app
+
+Repository : https://github.com/duncan-g-hub/P9_LITRevu_web_app.git
+
+Objectif : 
+Développer une application web communautaire permettant la publication et la consultation de critiques de livres et d'articles.
+
+Le projet repose sur une architecture MVT (Model-View-Template) divisée en deux applications Django distinctes :
+- authentication : gestion de l'inscription, connexion et déconnexion
+- review_app : logique métier autour des tickets, critiques et abonnements
+
+Fonctionnalités principales :
+- Système d'authentification complet (inscription, connexion, déconnexion)
+- Publication, modification et suppression de tickets (demandes de critique) et de critiques
+- Système de suivi d'utilisateurs avec un fil d'actualité personnalisé
+- Accès au site conditionné à l'authentification
+
+Compétences développées :
+- Conception d'une application web avec le framework Django
+- Modélisation de base de données et utilisation de l'ORM Django
+- Gestion de l'authentification et des permissions
+- Upload et gestion de fichiers médias avec Pillow
+- Gestion des variables d'environnement pour la sécurisation des données sensibles
+- Respect des conventions PEP8 avec flake8
+
+Technologies utilisées :
+- Python 3
+- Django
+- Pillow
+- CSS3
+- flake8
+
+
+Ce projet illustre ma capacité à concevoir une application web full-stack structurée autour d'une architecture MVT et d'interactions utilisateurs complexes.
+
+---
+
+
 ## Mes projets personnels
 
 
