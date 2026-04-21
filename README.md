@@ -197,6 +197,48 @@ Ce projet illustre ma capacité à concevoir une application web full-stack stru
 ---
 
 
+### SoftDesk_Support
+
+Repository : https://github.com/duncan-g-hub/P10_SoftDesk_Support.git
+
+Objectif :
+Développer une API RESTful sécurisée permettant la remontée et le suivi de problèmes techniques liés à des projets logiciels, dans un contexte B2B.
+
+Le projet repose sur une architecture REST divisée en deux applications Django distinctes :
+- `accounts` : gestion des utilisateurs, authentification JWT, consentements RGPD
+- `projects` : gestion des projets, contributeurs, issues et commentaires
+
+Fonctionnalités principales :
+- Authentification JWT (access/refresh token)
+- Contrôle d'accès par rôle (auteur, contributeur)
+- Gestion des projets avec suivi des issues (priorité, statut, balise)
+- Commentaires identifiés par UUID
+- Validation de l'âge minimum (15 ans) à l'inscription
+- Suppression des données personnelles conformément au RGPD
+- Pagination des résultats
+
+Compétences développées :
+- Conception d'une API REST avec Django REST Framework
+- Authentification et sécurisation avec Simple JWT
+- Gestion de permissions personnalisées par rôle
+- Routage imbriqué avec drf-nested-routers
+- Modélisation de base de données relationnelle
+- Application des principes RGPD (droit à l'oubli)
+- Respect des conventions PEP8 avec flake8
+
+Technologies utilisées :
+- Python 3
+- Django / Django REST Framework
+- Simple JWT
+- drf-nested-routers
+- python-decouple
+- flake8
+
+Ce projet illustre ma capacité à concevoir une API RESTful sécurisée, structurée et conforme aux bonnes pratiques de gestion des données personnelles.
+
+---
+
+
 ## Mes projets personnels
 
 
