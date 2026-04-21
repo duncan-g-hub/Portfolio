@@ -44,7 +44,7 @@ Objectif : intégrer un poste de développeur logiciel junior afin de concevoir 
 - Programmation Orientée Objet (POO)
 - Séparation des responsabilités
 - Conception de bases de données
-- Manipulation d'API REST
+- onception et manipulation d'API REST
 - Automatisation de processus
 - Logging et gestion d'erreurs
 
