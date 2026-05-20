@@ -238,6 +238,41 @@ Ce projet illustre ma capacité à concevoir une API RESTful sécurisée, struct
 
 ---
 
+## Résolution de bugs Python — Application Güdlft
+
+Repository : https://github.com/duncan-g-hub/P11_Python_Testing.git
+
+Objectif :
+Résoudre des bugs bloquants sur une application Flask de gestion de compétitions de force (deadlifting, strongman) et y ajouter une fonctionnalité de consultation des points des clubs.
+
+Bugs corrigés et fonctionnalité ajoutée :
+Correction d'une erreur 500 lors d'une connexion avec un email incorrect
+Correction de la non-déduction des points lors d'une réservation
+Ajout des conditions de validation des réservations (limite de 12 places, points suffisants, places disponibles, valeur positive)
+Ajout d'une route publique de consultation des points des clubs
+
+Mise en place d'une suite de tests complète :
+Tests unitaires : comportement isolé de chaque route
+Tests d'intégration : interactions entre les composants
+Tests fonctionnels : parcours utilisateur de bout en bout
+Tests de performance : validation des temps de réponse avec Locust (6 utilisateurs, < 5s chargement, < 2s mises à jour)
+
+Compétences développées :
+Débogage d'une application web existante
+Conception et structuration d'une suite de tests multicouches
+Tests de performance avec Locust
+Mesure de la couverture de code avec coverage
+Respect des conventions PEP8 avec flake8
+
+Technologies utilisées :
+Python 3 / Flask
+pytest / coverage
+Locust
+flake8
+
+Ce projet illustre ma capacité à intervenir sur une base de code existante, à identifier et corriger des bugs, et à mettre en place une stratégie de tests structurée et complète.
+
+---
 
 ## Mes projets personnels
 
