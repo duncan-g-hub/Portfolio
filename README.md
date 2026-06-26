@@ -57,7 +57,7 @@ Objectif : intégrer un poste de développeur logiciel junior afin de concevoir 
 ---
 
 ## Mes projets éducatifs
-
+Ces différents projets ont été réalisés dans le cadre de ma formation "Développeur d'applications Python" dispensée par OpenClassrooms.
 
 ### Books_to_scrape
 
