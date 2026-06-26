@@ -238,6 +238,7 @@ Ce projet illustre ma capacité à concevoir une API RESTful sécurisée, struct
 
 ---
 
+
 ## Résolution de bugs Python — Application Güdlft
 
 Repository : https://github.com/duncan-g-hub/P11_Python_Testing.git
@@ -271,6 +272,48 @@ Locust
 flake8
 
 Ce projet illustre ma capacité à intervenir sur une base de code existante, à identifier et corriger des bugs, et à mettre en place une stratégie de tests structurée et complète.
+
+---
+
+
+### Epic_Events_CRM
+
+Repository : https://github.com/duncan-g-hub/P12_CRM_Epic_Events.git
+
+Objectif :
+Développer une application CRM en ligne de commande permettant la gestion complète des collaborateurs, clients, contrats et événements pour la société Epic Events.
+
+Architecture MVC avec une couche CLI dédiée :
+- Models : entités métier (Collaborateur, Client, Contrat, Événement) via SQLAlchemy ORM
+- Views : affichage console des données
+- Controllers : logique métier et gestion des permissions par rôle
+- Commands : interface utilisateur via Click
+
+Fonctionnalités principales :
+- Authentification JWT (connexion / déconnexion)
+- Contrôle d'accès par rôle (commercial, support, gestion)
+- Création, modification et affichage des collaborateurs, clients, contrats et événements
+- Journalisation des actions clés et surveillance des erreurs via Sentry
+
+Compétences développées :
+- Conception d'une application CLI structurée avec Click
+- Modélisation de base de données relationnelle avec SQLAlchemy
+- Authentification et sécurisation avec JWT et Bcrypt
+- Gestion de permissions par rôle via décorateurs
+- Journalisation et monitoring avec Sentry
+- Respect des conventions PEP8 avec flake8
+
+Technologies utilisées :
+- Python 3
+- SQLAlchemy (ORM)
+- Click (CLI)
+- MySQL
+- PyJWT
+- Bcrypt
+- Sentry
+- flake8
+
+Ce projet illustre ma capacité à concevoir une application métier complète en ligne de commande, avec une architecture claire, une gestion des permissions robuste et une surveillance des erreurs en production.
 
 ---
 
