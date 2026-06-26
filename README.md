@@ -239,12 +239,12 @@ Ce projet illustre ma capacité à concevoir une API RESTful sécurisée, struct
 ---
 
 
-## Résolution de bugs Python — Application Güdlft
+### Résolution de bugs Python — Application Güdlft
 
 Repository : https://github.com/duncan-g-hub/P11_Python_Testing.git
 
 Objectif :
-Résoudre des bugs bloquants sur une application Flask de gestion de compétitions de force (deadlifting, strongman) et y ajouter une fonctionnalité de consultation des points des clubs.
+Résoudre des bugs bloquants et ajouter une suite de tests sur une application Flask de gestion de compétitions de force et y ajouter une fonctionnalité de consultation des points des clubs.
 
 Bugs corrigés et fonctionnalité ajoutée :
 Correction d'une erreur 500 lors d'une connexion avec un email incorrect
