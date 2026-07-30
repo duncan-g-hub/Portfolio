@@ -317,6 +317,51 @@ Ce projet illustre ma capacité à concevoir une application métier complète e
 
 ---
 
+### Orange_County_Lettings
+
+Repository : https://github.com/duncan-g-hub/P13_Orange_County_Lettings.git
+
+Objectif :
+Réorganiser une application Django existante en une architecture modulaire afin d'améliorer sa maintenabilité, sa flexibilité et son évolutivité, tout en mettant en place une chaîne de déploiement automatisée et des outils de supervision.
+
+Architecture MVT (Model-View-Template) divisée en trois applications Django distinctes :
+- `oc_lettings_site` : configuration globale du projet, page d'accueil et gestion des erreurs
+- `lettings` : logique métier liée aux locations immobilières
+- `profiles` : gestion des profils utilisateurs
+
+Fonctionnalités principales :
+- Consultation de la liste et du détail des locations
+- Consultation de la liste et du détail des profils utilisateurs
+- Administration complète des données via l'interface Django Admin
+- Pages d'erreur personnalisées (404 et 500)
+- Supervision des erreurs et des performances avec Sentry
+- Pipeline CI/CD automatisé pour les tests, la création de l'image Docker et le déploiement sur Render
+
+Compétences développées :
+- Refactorisation et modularisation d'une application Django existante
+- Conception d'une architecture MVT maintenable
+- Mise en place d'une stratégie de tests avec une couverture supérieure à 80 %
+- Conteneurisation d'une application avec Docker
+- Automatisation du déploiement avec GitHub Actions et Render
+- Supervision des erreurs et journalisation avec Sentry
+- Gestion des variables d'environnement et configuration de production
+
+Technologies utilisées :
+- Python 3
+- Django
+- Docker
+- GitHub Actions
+- Render
+- Gunicorn
+- WhiteNoise
+- Sentry
+- pytest
+- flake8
+
+Ce projet illustre ma capacité à reprendre une application existante, à améliorer son architecture, à mettre en place une chaîne CI/CD complète et à déployer une application web selon les bonnes pratiques de développement et d'exploitation.
+
+---
+
 ## Mes projets personnels
 
 
