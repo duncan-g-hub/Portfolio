@@ -26,33 +26,69 @@ Objectif : intégrer un poste de développeur logiciel junior afin de concevoir 
 - Python (avancé)
 - JavaScript (bases)
 - SQL (bases)
+- HTML5 / CSS
 - VBA (bases)
 
-### Outils & Frameworks
-- Git
-- VS Code / PyCharm
+### Frameworks & bibliothèques
 - Django
-- PySide
+- Django REST Framework
+- Flask
+- PySide6
+- SQLAlchemy
 - TinyDB
-- Flake8
-- W3C Validator
-- SolidWorks avancé (CAO)
-- CEGID PMI (ERP)
-- Excel (avancé)
+- BeautifulSoup4
+- Requests
+- Pillow
 
-### Concepts
+### Bases de données
+- SQLite
+- MySQL
+- Django ORM
+- SQLAlchemy ORM
+
+### Outils & DevOps
+- Git / GitHub
+- GitHub Actions (CI/CD)
+- Docker & Docker Compose
+- Render
+- Sentry
+- Gunicorn
+- WhiteNoise
+- python-dotenv
+
+### Tests & Qualité logicielle
+- pytest
+- Tests unitaires
+- Tests d'intégration
+- Tests fonctionnels
+- Tests de performance (Locust)
+- Coverage
+- flake8
+- W3C Validator
+
+### Architecture & conception logicielle
 - Programmation Orientée Objet (POO)
+- Architecture MVC
+- Architecture MVT
+- Architecture REST
 - Séparation des responsabilités
 - Conception de bases de données
-- onception et manipulation d'API REST
+- Développement d'API REST
+- Authentification JWT
+- Gestion des permissions
+- Logging et gestion des erreurs
+- Variables d'environnement
+- Conteneurisation d'applications
+- Déploiement continu (CI/CD)
 - Automatisation de processus
-- Logging et gestion d'erreurs
 
-### Méthodes 
+### Méthodes
 - Analyse fonctionnelle
-- Développement agile
-- Tests et validation
+- Développement Agile
 - Documentation technique
+- Refactorisation de code
+- Débogage d'applications
+- Respect des bonnes pratiques Python (PEP8)
 
 ---
 
