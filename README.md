@@ -16,6 +16,8 @@ Je me spécialise aujourd’hui en développement d’applications Python, avec 
 - la structuration orientée objet
 - l’automatisation de processus
 
+Curieux d'explorer d'autres écosystèmes pour renforcer ma polyvalence, je développe également en parallèle mes compétences en C#/.NET.
+
 Objectif : intégrer un poste de développeur logiciel junior afin de concevoir des applications utiles, robustes et évolutives.
 
 ---
@@ -24,6 +26,7 @@ Objectif : intégrer un poste de développeur logiciel junior afin de concevoir 
 
 ### Langages de programmation
 - Python (avancé)
+- C# (bases)
 - JavaScript (bases)
 - SQL (bases)
 - HTML5 / CSS
@@ -428,6 +431,41 @@ Technologies utilisées :
 - PySide6
 
 Ce projet reflète clairement mon orientation vers le développement d’applications logicielles complètes en Python.
+
+---
+
+### Calculator_WPF_GUI
+
+Repository : https://github.com/duncan-g-hub/CSharp_Calculator_GUI.git
+
+Objectif :
+Concevoir une application desktop de calculatrice avec interface graphique, en C# et WPF, afin de me familiariser avec l'écosystème .NET desktop et le paradigme XAML / code-behind.
+
+Architecture séparée en deux responsabilités distinctes :
+- Interface graphique (XAML) : structure visuelle en Grid, système de styles réutilisables avec héritage, gestion des états visuels (survol, clic) via des Triggers
+- Logique métier (C#) : gestion de l'état de la calculatrice dans le code-behind, isolation des opérations arithmétiques dans une classe dédiée
+
+Fonctionnalités principales :
+- Opérations de base (addition, soustraction, multiplication, division) et avancées (pourcentage, carré, racine carrée, inverse)
+- Enchaînement d'opérations et changement d'opérateur en cours de saisie
+- Gestion des erreurs (division par zéro) sans interruption de l'application
+- Génération d'un exécutable Windows autonome (.exe)
+
+Compétences développées :
+- Développement d'interface graphique avec WPF et XAML
+- Conception de styles réutilisables et héritage de styles (BasedOn, ControlTemplate)
+- Gestion d'événements UI et d'état applicatif
+- Séparation logique métier / interface
+- Documentation du code via commentaires XML
+- Publication d'une application .NET en exécutable autonome
+
+Technologies utilisées :
+- C#
+- WPF (Windows Presentation Foundation)
+- .NET 10 SDK
+- XAML
+
+Ce projet illustre ma capacité à sortir de l'écosystème Python pour aborder un nouveau langage et un nouveau paradigme d'interface graphique, tout en conservant une approche structurée et documentée.
 
 ---
 
